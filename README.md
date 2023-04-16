@@ -1,4 +1,5 @@
 # blackjack
+## Description
 This is an offline version of the blackjack game that can be played directly from the computer terminal. The game is fully functional and allows you to play without the need to bet money.
 **The main branch is master**
 
